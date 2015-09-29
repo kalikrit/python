@@ -1,2 +1,3 @@
-# python
-python projects
+# python projects:
+ 
+	1. weights - Weights Manager
